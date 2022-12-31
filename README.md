@@ -2,7 +2,7 @@
 
 **`Computer Science Student at the University of York`**
 
-I'm a full-stack developer and final year Computer Science student at the Univeristy of York. I am passionate about software engineering and I love learning new technologies. Before retrurning to my last year of study, I spent 15 months working at [Couchbase](https://www.couchbase.com/) as a software engineer. I'm currently working on my final year project where I'll be evaulating the performance, portability and productivity of the Julia programming language in high performance computing.
+I'm a full-stack developer and final year Computer Science student at the University of York. I am passionate about software engineering and I love learning new technologies. Before returning to my last year of study, I spent 15 months working at [Couchbase](https://www.couchbase.com/) as a software engineer. I'm currently working on my final year project where I'll be evaluating the performance, portability and productivity of the Julia programming language in high performance computing.
 
 I'm also seeking post graduate employment as a full-stack software engineer. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/james-wilkinson-5b84211a8/).
 
